@@ -53,7 +53,3 @@ Estos son algunos de mis highlights.
 - 🌐 Portfolio: [landingcvpage.netlify.app](https://landingcvpage.netlify.app/)
 
 ¡Gracias por pasar! Si tenés ideas para proyectos o querés charlar sobre código, mandame un mensaje. 🚀
-
----
-
-![Juan Pablo Romero - Web Dev](https://tu-banner-url-aqui.png) <!-- Pegá el link de tu banner generado -->
