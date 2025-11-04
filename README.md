@@ -3,7 +3,7 @@
 ¡Bienvenido a mi rincón en GitHub! Soy un **desarrollador web** con sede en Argentina (o donde me lleve el código). Me encanta construir aplicaciones web dinámicas y escalables que resuelvan problemas reales, desde landing pages simples hasta sistemas de gestión completos. Mi enfoque es en el stack MERN (MongoDB, Express, React, Node.js), con un toque de bases de datos relacionales y algo de Java
 
 ## 🛠️ Tecnologías que Domino
-Aquí va un resumen de mis skills principales. Siempre estoy aprendiendo y experimentando con nuevas herramientas.
+Este es un resumen de mis skills principales. Siempre estoy aprendiendo y experimentando con nuevas herramientas.
 
 | Categoría       | Tecnologías                          |
 |-----------------|--------------------------------------|
