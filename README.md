@@ -1,6 +1,6 @@
 # ¡Hola! 👋 Soy Juan Pablo Romero
 
-¡Bienvenido a mi rincón en GitHub! Soy un **desarrollador web** con sede en Argentina (o donde me lleve el código). Me encanta construir aplicaciones web dinámicas y escalables que resuelvan problemas reales, desde landing pages simples hasta sistemas de gestión completos. Mi enfoque es en el stack MERN (MongoDB, Express, React, Node.js) y más allá, con un toque de bases de datos relacionales y algo de Java
+¡Bienvenido a mi rincón en GitHub! Soy un **desarrollador web** con sede en Argentina (o donde me lleve el código). Me encanta construir aplicaciones web dinámicas y escalables que resuelvan problemas reales, desde landing pages simples hasta sistemas de gestión completos. Mi enfoque es en el stack MERN (MongoDB, Express, React, Node.js), con un toque de bases de datos relacionales y algo de Java
 
 ## 🛠️ Tecnologías que Domino
 Aquí va un resumen de mis skills principales. Siempre estoy aprendiendo y experimentando con nuevas herramientas.
@@ -23,7 +23,7 @@ Estos son algunos de mis highlights. ¡Cloná, fork y contribuye!
   Evolución de una app de gestión para lavado de autos. Incluye CRUD, autenticación y dashboard con Node/Express.  
   *Tech: JavaScript, Node.js, Express* | ⭐ 0 | 🍴 0 | Actualizado recientemente
 
-  - **[PokeProject](https://github.com/JuanPabloRomero00/PokeProject)**  
+- **[PokeProject](https://github.com/JuanPabloRomero00/PokeProject)**  
   Un proyecto divertido con la API de Pokémon: búsqueda, filtros y cards interactivas. Perfecto para practicar fetch y state management en React.  
   *Tech: JavaScript, React* | ⭐ 0 | 🍴 0
 
@@ -31,7 +31,7 @@ Estos son algunos de mis highlights. ¡Cloná, fork y contribuye!
   Sistema de Administración (¿quizás para datos o algo similar?). Backend con Node y base de datos.  
   *Tech: JavaScript* | ⭐ 0 | 🍴 0
 
-  - **[CarwashFreaks](https://github.com/JuanPabloRomero00/CarwashFreaks)**  
+- **[CarwashFreaks](https://github.com/JuanPabloRomero00/CarwashFreaks)**  
   Versión 1.0 de la app de lavado – base para la V2.  
   *Tech: JavaScript* | ⭐ 0 | 🍴 0
 
