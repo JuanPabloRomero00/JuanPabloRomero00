@@ -17,7 +17,7 @@ Aquí va un resumen de mis skills principales. Siempre estoy aprendiendo y exper
 - **Java**: Conocimientos básicos en OOP, Spring Boot para microservicios.
 
 ## 🔥 Proyectos Destacados
-Estos son algunos de mis highlights. ¡Cloná, fork y contribuye!
+Estos son algunos de mis highlights.
 
 - **[CarwashFreaksV2.0](https://github.com/JuanPabloRomero00/CarwashFreaksV2.0)**  
   Evolución de una app de gestión para lavado de autos. Incluye CRUD, autenticación y dashboard con Node/Express.  
@@ -44,7 +44,7 @@ Estos son algunos de mis highlights. ¡Cloná, fork y contribuye!
   *Tech: HTML* | ⭐ 0 | 🍴 0
 
 ## 📈 Actividad
-- **Lenguajes Principales**: JavaScript, HTML/CSS.
+- **Lenguajes Principales**: JavaScript, React, Express.
 - **Colaboraciones**: Abierto a PRs, issues y collabs. Si ves algo que mejorar, ¡avísame!
 
 ## 📫 Contáctame
