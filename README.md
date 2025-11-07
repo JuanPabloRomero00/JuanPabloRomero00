@@ -23,6 +23,10 @@ Estos son algunos de mis highlights.
   Evolución de una app de gestión para lavado de autos. Incluye CRUD, autenticación y dashboard con Node/Express.  
   *Tech: JavaScript, Node.js, Express* | ⭐ 0 | 🍴 0 | Actualizado recientemente
 
+- **[CarritoDeCompras](https://github.com/JuanPabloRomero00/CarritoDeCompras)**  
+  Aplicación de carrito de compras donde el usuario puede agregar, quitar y modificar productos, ver totales en tiempo real y contar con persistencia en localStorage.
+  *Tech: JavaScript, React, Node.js, Express* | ⭐ 0 | 🍴 0
+
 - **[PokeProject](https://github.com/JuanPabloRomero00/PokeProject)**  
   Un proyecto divertido con la API de Pokémon: búsqueda, filtros y cards interactivas. Perfecto para practicar fetch y state management en React.  
   *Tech: JavaScript, React* | ⭐ 0 | 🍴 0
